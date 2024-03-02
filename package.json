@@ -1,20 +1,13 @@
 {
-    "name": "Arch-api",
-    "version": "1.0.0",
-    "description": "",
-    "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
-        "test": "echo \"No test specified\" && exit 1",
-        "start": "node index.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Edinst/Arch-api.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/Edinst/Arch-api/issues"
-    },
-    "homepage": "https://github.com/Edinst/Arch-api#readme"
+  "name": "arch-api",
+  "version": "1.0.0",
+  "description": "Cyclic.sh micro api starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
 }
